@@ -1,0 +1,15 @@
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\bin\Debug\net8.0\IntroSharp2.exe
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\bin\Debug\net8.0\IntroSharp2.deps.json
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\bin\Debug\net8.0\IntroSharp2.runtimeconfig.json
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\bin\Debug\net8.0\IntroSharp2.dll
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\bin\Debug\net8.0\IntroSharp2.pdb
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.AssemblyInfoInputs.cache
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.AssemblyInfo.cs
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.csproj.CoreCompileInputs.cache
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.sourcelink.json
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.dll
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\refint\IntroSharp2.dll
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.pdb
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\IntroSharp2.genruntimeconfig.cache
+C:\Users\Mark\RiderProjects\IntroSharp2\IntroSharp2\obj\Debug\net8.0\ref\IntroSharp2.dll

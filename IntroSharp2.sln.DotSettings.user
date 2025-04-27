@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=EE722CDF_002DF3D2_002D4EBC_002D874E_002DDDD46B7395C9/@EntryIndexedValue">TaskTest1</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=MSTest/@EntryIndexedValue">d6790ab7-33c2-4425-b2c9-51480cd1a852</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5f3893a7_002D1573_002D44ff_002D872b_002D026a5a1692bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnalyzeArray_WithEmptyArray_ShouldReturnZeros" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::7E163815-DD7B-4555-9713-081CA704DB98::net8.0::ArrayAnalyzerTests.AnalyzeArray_WithEmptyArray_ShouldReturnZeros&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
