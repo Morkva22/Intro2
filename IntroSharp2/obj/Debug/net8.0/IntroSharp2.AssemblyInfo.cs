@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroSharp2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11d044fd0072b47b7f2f31647dbb652ac4dfdd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroSharp2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroSharp2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
